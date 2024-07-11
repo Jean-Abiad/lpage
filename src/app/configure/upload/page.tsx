@@ -21,7 +21,7 @@ const Page = () => {
   }
 
   const onDropAccepted = (acceptedFiles: File[]) => {
-    console.log('acepted');
+    console.log('acepteds');
     
   }
 

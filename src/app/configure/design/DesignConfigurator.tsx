@@ -12,5 +12,5 @@ const DesignConfigurator = ({
 }: DesignConfiguratorProps) => {
 
 }
-
+  
 export default DesignConfigurator
